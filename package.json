@@ -15,7 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "nodemon": "^2.0.15"
   },
   "devDependencies": {
     "concurrently": "^5.1.0"
